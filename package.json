@@ -1,16 +1,27 @@
 {
-  "name": "git-change-date",
   "version": "1.0.2",
+  "name": "@vanyasem/git-change-date",
   "license": "MIT",
   "description": "Simple command line to change old commits dates.",
   "author": "Kareem Elbahrawy <bitriddler@gmail.com>",
+  "contributors": [
+    {
+    "name": "Ivan Semkin",
+    "email": "ivan@semkin.ru",
+    "url": "https://github.com/vanyasem/"
+    }
+  ],
   "keywords": [
     "git",
     "date"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitriddler/git-change-date.git"
+    "url": "https://github.com/vanyasem/git-change-date.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vanyasem/git-change-date/issues",
+    "email": "ivan@semkin.ru"
   },
   "scripts": {
     "dev": "babel-node src/bin",
