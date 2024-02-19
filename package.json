@@ -23,6 +23,11 @@
     "url": "https://github.com/vanyasem/git-change-date/issues",
     "email": "ivan@semkin.ru"
   },
+  "funding": [
+    "https://boosty.to/vanyasem",
+    "https://www.donationalerts.com/r/vanyasem",
+    "https://ud.me/vanyasem.wallet"
+  ],
   "scripts": {
     "dev": "babel-node src/bin",
     "clean": "rimraf dist",
