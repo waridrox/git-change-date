@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
   "name": "@vanyasem/git-change-date",
+  "version": "1.0.3",
   "license": "MIT",
   "description": "Simple command line to change old commits dates.",
   "author": "Kareem Elbahrawy <bitriddler@gmail.com>",
